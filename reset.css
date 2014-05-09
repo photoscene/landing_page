@@ -1,0 +1,23 @@
+:link,:visited
+{ text-decoration:none }
+
+/*h1,h2,h3,h4,h5,h6,pre,code,kbd,input,select,textarea,table
+{ font-size: 1em; }*/
+
+dl,dd,ul,ol,li,pre,form,body,html,div,p,blockquote,fieldset,legend,input,select,textarea
+{ margin:0; padding:0 }
+
+a img,:link img,:visited img,abbr,acronym,fieldset,iframe
+{ border:0;  }
+
+address,abbr,cite
+{ font-style:normal }
+
+caption
+{ text-align:left; }
+
+q:before,q:after
+{ content:''; }
+
+textarea
+{ overflow: auto; }
